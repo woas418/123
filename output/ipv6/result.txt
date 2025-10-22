@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-22 18:32:04,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+2025-10-23 06:34:14,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 
 📺央视频道,#genre#
 
@@ -11,7 +11,6 @@
 
 ☘️浙江频道,#genre#
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 浙江生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
@@ -23,6 +22,7 @@
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
@@ -48,11 +48,13 @@
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
@@ -80,7 +82,6 @@
 
 ☘️湖北频道,#genre#
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 
 ☘️广西频道,#genre#
@@ -102,7 +103,6 @@
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
-云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
 ☘️海南频道,#genre#
@@ -141,7 +141,6 @@
 六安新闻综合,http://ls.qingting.fm/live/267.m3u8
 六安公共,http://ls.qingting.fm/live/1794199.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
-亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 
 ☘️宁夏频道,#genre#
 宁夏经济,https://ls.qingting.fm/live/1841/64k.m3u8
@@ -153,7 +152,6 @@
 
 ☘️云南频道,#genre#
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 
 ☘️青海频道,#genre#
 安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
